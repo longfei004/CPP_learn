@@ -6,5 +6,4 @@ void main()
 {
 	cout << "hello world!" << endl;
 	cout << "git test!!!" << endl;
-	cout << "liulongfei" << endl;
 }
